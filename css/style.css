@@ -1,0 +1,39 @@
+/* CSS for header */
+.col-md-12{
+    padding: 0;
+}
+.my-intro{
+    text-align: justify;
+}
+.bi-at{
+    width: 40px;
+    height: 38px;
+    border: 1px solid #d4d9df;
+    border-right: 0px;
+    border-bottom-left-radius: 5px ;
+    border-top-left-radius: 5px ;
+    background: #f2f2f2;
+}
+.other input{
+    
+    border-bottom-left-radius: 0px ;
+    border-top-left-radius: 0px ;
+}
+.fix {
+    background: transparent;
+    border: 0px;
+    padding-left: 0px;
+}
+.fix_{
+    padding-top: 50px;
+}
+.footer{
+    background:#f9f9f9;
+    margin-top: 50px;
+}
+.row .fontsize{
+    font-size: 60px;
+}
+.update{
+    padding-top: 50px;
+}
