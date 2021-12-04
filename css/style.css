@@ -31,8 +31,9 @@
     background:#f9f9f9;
     margin-top: 50px;
 }
-.row .fontsize{
-    font-size: 60px;
+.fontsize{
+    font-size: 55px;
+    margin-bottom: 10px;
 }
 .update{
     padding-top: 50px;
