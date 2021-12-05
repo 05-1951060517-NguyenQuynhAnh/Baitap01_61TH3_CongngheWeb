@@ -1,40 +1,61 @@
+/* CSS for home.html */
 /* CSS for header */
 .col-md-12{
     padding: 0;
 }
+/* CSS for text */
 .my-intro{
     text-align: justify;
 }
-.bi-at{
+/* CSS for main */
+/* CSS class fontsize */
+.fontsize{
+    font-size: 50px;
+    margin-bottom: 5px;
+}
+/* CSS for post slider */
+.update{
+    padding-top: 50px;
+}
+.active .col-md-6{
+    padding: 30px;  
+}
+/* .bi-at{
     width: 40px;
     height: 38px;
     border: 1px solid #d4d9df;
     border-right: 0px;
     border-bottom-left-radius: 5px ;
     border-top-left-radius: 5px ;
-    background: #f2f2f2;
+    background: red;
 }
 .other input{
-    
     border-bottom-left-radius: 0px ;
     border-top-left-radius: 0px ;
-}
+    background: red;
+} */
+/* CSS class fix */
 .fix {
     background: transparent;
     border: 0px;
     padding-left: 0px;
 }
+/* CSS class fix_ */
 .fix_{
     padding-top: 50px;
 }
+/* CSS for footer */
 .footer{
     background:#f9f9f9;
     margin-top: 50px;
 }
-.fontsize{
-    font-size: 55px;
-    margin-bottom: 10px;
+
+/* CSS for post.html */
+/* CSS for footer */
+.item{
+    margin-top: 30px;
 }
-.update{
-    padding-top: 50px;
+.active .col-md-6{
+    padding: 30px;
+    
 }
