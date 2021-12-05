@@ -14,25 +14,8 @@
     margin-bottom: 5px;
 }
 /* CSS for post slider */
-.update{
-    padding-top: 50px;
-}
-.active .col-md-6{
-    padding: 30px;  
-}
-/* .bi-at{
-    width: 40px;
-    height: 38px;
-    border: 1px solid #d4d9df;
-    border-right: 0px;
-    border-bottom-left-radius: 5px ;
-    border-top-left-radius: 5px ;
-    background: red;
-}
-.other input{
-    border-bottom-left-radius: 0px ;
-    border-top-left-radius: 0px ;
-    background: red;
+/* .update{
+    padding-top: 20px;
 } */
 /* CSS class fix */
 .fix {
@@ -49,13 +32,12 @@
     background:#f9f9f9;
     margin-top: 50px;
 }
-
 /* CSS for post.html */
 /* CSS for footer */
 .item{
     margin-top: 30px;
 }
-.active .col-md-6{
-    padding: 30px;
-    
+/* CSS for view.html */
+.other{
+    margin-bottom: 3px;
 }
